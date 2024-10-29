@@ -9,7 +9,7 @@ The course moodle is [here](https://www.vle.cam.ac.uk/course/view.php?id=252189)
 
 The course readthedocs is [here](https://researchcomputing.readthedocs.io/en/latest/).
 
-update to the test
+update to the test 2
 
 The course is based on material from many sources, including:
 - James Fergusson's lecture notes (private communication, see [course archive](https://gitlab.developers.cam.ac.uk/phy/data-intensive-science-mphil/lecture-materials/c1_research_computing/-/tree/main/course_archive?ref_type=heads) for UoC students),
